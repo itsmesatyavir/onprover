@@ -2,6 +2,7 @@
 
 A Python automation bot that creates referral accounts on [OnProver]([https://onprover.orochi.network/](https://onprover.orochi.network/?referralCode=7R0g_forestarmy)) using a referral link. This tool is useful for growing your referral network automatically.
 
+⚠️ script is not owned by me it was shared to me from my members
 ## Features
 
 - Automated account registration  
