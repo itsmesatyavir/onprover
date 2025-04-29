@@ -1,0 +1,12 @@
+{
+    "headless": false,
+    "account_count": 3,
+    "min_delay": 10,
+    "max_delay": 20,
+    "password": "YourSecurePassword123!",
+    "referral_code": "7R0g_forestarmy",
+    "use_temp_email": true,
+    "email_prefix": "userTest",
+    "email_domain": "gmail.com",
+    "pause_on_failure": true
+}
